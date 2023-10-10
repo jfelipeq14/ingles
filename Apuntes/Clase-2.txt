@@ -1,0 +1,36 @@
+Repaso
+I am Juan. I am not Santiago.
+He is Roger. He is a doctor. He is not an actor.
+We are students. We are in the school. We are not in the park.
+
+un/una
+a => consonantes
+an => vocal
+
+Interrogativo
+
+He is Carlos => Afirmativo
+Is he Carlos? => Interrogativo
+Yes, he is => Respuesta afirmativa
+No, he is not => Repuesta negativa
+
+She is Carlota
+is she Carlota?
+Yes, she is
+No, she is not
+
+Are you a student?
+Yes, I am.
+No, I am not.
+
+I am a Teacher
+Am I a teacher? No, I am not a teacher
+
+You are a student
+Are you a student? Yes, I am a student
+
+He is my brother
+Is he my brother? No, he is not my brother
+
+We are in the school
+Are we in the school? No, we are not in the school
