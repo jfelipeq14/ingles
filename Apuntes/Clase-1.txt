@@ -6,13 +6,21 @@ I: Yo => am
 You: Tu => is
 He: El => is
 She: Ella => is
-It:  => is
+It: Eso => is
 
 We: Nosotros => are
 You: Ustedes => are
 They: Ellos => are
 
 Ser/estar => To be
+
+LOCATION Estoy en...
+EMOTION Estoy (emocion)..
+ORIGIN Soy de...
+PROFESSION Soy un...
+AGE Yo soy ... años mayor
+RELATIONSHIP Yo soy amigo...
+DESCRIPTION Yo soy o yo estoy...
 
 Afirmativo
 I am Juan. I am in the class.
@@ -24,12 +32,16 @@ We are students. We are in the school.
 You are doctor. You are in the hospital.
 They are arquitects. They are in the office.
 
+I`m not
+Isn`t
+aren`t
+
 Negativo
-I am Juan. I am not Santiago.
-You are a student. You are not in the park.
-He is my brother. He is not in the house.
-She is a nurse. She is not in the office.
-It is a cat. It is not black.
-We are students. We are not in the hospital.
-You are doctor. You are not in the school.
-They are arquitects. They are not in the house.
+I am Juan. I`m not Santiago.
+You are a student. You aren`t in the park.
+He is my brother. He isn`t in the house.
+She is a nurse. She isn`t in the office.
+It is a cat. It isn`t black.
+We are students. We aren`t in the hospital.
+You are doctor. You aren`t in the school.
+They are arquitects. They aren`t in the house.
