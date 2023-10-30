@@ -1,9 +1,7 @@
-Sujeto - Verbo - Complemento
-
 Pronombres:
 I: Yo => am
 
-You: Tu => is
+You: Tu => are
 He: El => is
 She: Ella => is
 It: Eso => is
@@ -14,34 +12,87 @@ They: Ellos => are
 
 Ser/estar => To be
 
-LOCATION Estoy en...
-EMOTION Estoy (emocion)..
-ORIGIN Soy de...
-PROFESSION Soy un...
-AGE Yo soy ... años mayor
-RELATIONSHIP Yo soy amigo...
+LOCATION Estoy en mi casa...
+EMOTION Estoy contento..
+ORIGIN Soy de Colombia...
+PROFESSION Soy un ingeniero...
+AGE Yo soy 22 años viejo...
+RELATIONSHIP Yo soy amigo Juan Pablo...
 DESCRIPTION Yo soy o yo estoy...
 
-Afirmativo
-I am Juan. I am in the class.
-You are a student. You are in the school.
-He is my brother. He is in the park.
-She is a nurse. She is in the hospital.
-It is a cat. It is black.
-We are students. We are in the school.
-You are doctor. You are in the hospital.
-They are arquitects. They are in the office.
+-----//-----
 
-I`m not
-Isn`t
-aren`t
+Sujeto - Verbo - Complemento (Afirmativa) + LEOPARD (verb to be)
 
-Negativo
-I am Juan. I`m not Santiago.
-You are a student. You aren`t in the park.
-He is my brother. He isn`t in the house.
-She is a nurse. She isn`t in the office.
-It is a cat. It isn`t black.
-We are students. We aren`t in the hospital.
-You are doctor. You aren`t in the school.
-They are arquitects. They aren`t in the house.
+I am in my house
+You are very happy
+He is from Italy
+She is 20 years old
+It is a cat
+We are friends
+You are good friends
+They are in the park
+
+Sujeto - Verbo - Negacion - Complemento (Negativa) + LEOPARD (verb to be)
+
+Contraccion del verbo con la negacion:
+I`m not (I)
+Isn`t (He, She, It)
+aren`t (You, We, You, They)
+
+I`m not in my house
+You aren`t very happy
+He isn`t from Italy
+She isn`t 20 years old
+It isn`t a cat
+We aren`t friends
+You aren`t good friends
+They aren`t in the park
+
+-----//-----
+
+---Saludos:
+
+Formales:
+Hello! (¡Hola!)
+Good morning!  (¡Buenos días!)
+Good afternoon!  (¡Buenas tardes!)
+Good evening!  (¡Buenas noches!)
+How are you? (¿Cómo está usted?)
+How do you do?   (¿Cómo está usted?)
+How are you doing?  (¿Cómo está usted?)
+Nice to meet you!   (Encantada/o de conocerle)
+It’s a pleasure to meet you   (Encantada/o de conocerle)
+
+Informales:
+Hi! Hey! (¡Hola!).
+What’s up?  (¿Cómo va? / ¿Qué hay?).
+How have you been? (¿Cómo has estado?).
+How’s it going? (¿Cómo va todo?).
+What’s new? (¿Qué hay de nuevo?).
+What’s going on? (¿Qué pasó?).
+Good to see you  (Qué bueno verte).
+How’s your day?  (¿Cómo te va el día?).
+How are things?  (¿Cómo te van las cosas?).
+
+---Despedidas:
+
+Formales:
+Goodbye (adios).
+Pleased to meet you = (encantado de conocerte).
+Good night = (buenas noches).
+Have a nice day = (pasa un buen día).
+
+Informales:
+Bye = (adiós).
+Take care = (cuídate).
+Take it easy = (tómatelo con calma).
+Cheers = (adiós).
+See you! = (¡nos vemos!).
+Have a nice day = (pasa un buen día).
+Have a good one = (que te vaya bien).
+Have fun = (pásalo bien).
+It was nice to see you again = (me gustó volver a verte).
+I gotta go = (tengo que irme).
+See you soon = (nos vemos pronto).
+Talk to you later = (hablamos más tarde).
