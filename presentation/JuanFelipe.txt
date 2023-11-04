@@ -1,0 +1,28 @@
+Hello everyone, my name is Juan Felipe
+and I am 22 years old.
+I was born in the Leon XIII Clinic
+in Medellin, Colombia,
+and I currently live in the same city.
+I am a student of analysis and software development at SENA.
+
+I am a somewhat sedentary person,
+but I like to play sports with my classmates.
+I love soccer, volleyball and ultimate.
+
+I am also passionate about teaching.
+I am studying to teach technology and computer science.
+
+My specialty in web development is backend,
+but I have fullstack skills.
+I have used HTML, CSS, TypeScript, C#, and SQL
+with some frameworks and libraries,
+like DevExtreme, TailwindCSS, Angular, dotnet, sql server,
+and other plugins like PNPM.
+
+In five years,
+I see myself as a technology and computer science teacher.
+I want to have well-developed skills to be the best teacher.
+
+Thank you for your attention.
+
+Bye, bye.
