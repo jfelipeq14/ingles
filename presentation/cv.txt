@@ -1,0 +1,9 @@
+# Juan Felipe Quintero Gutierrez  |  Software Developer! ⌨️
+
+## Perfil
+Técnico Laboral como Asistente en Desarrollo de Software con 6 meses de experiencia en Desarrollo Web Full Stack, desempeñando funciones tales como desarrollo de paginas web, investigacion de frameworks y librerias, y trabajo en base a scrum. Cuento con conocimientos en el editor de codigo Visual Studio Code, el entorno de desarrollo Visual Studio; lenguajes de programacion como HTML5, CSS3, JavaScript, TypeScript, C#; administracion en bases de datos con  MicrosoftSQLServer; y competencias laborales con frameworks y librerias como DevExtreme, TailwindCSS, Angular, .Net, y manejadores de versiones como NPM y PNPM.
+
+## Experiencia Laboral
+Ekisa SAS - Septiembre 26 de 2022 a Marzo 26 de 2023 - Practicas Laborales
+
+Alegria Pets - 2018 a 2022 - Diseño y desarrollo de productos (pañoletas)
